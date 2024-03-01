@@ -1,7 +1,7 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 author 'HenkW'
-description 'ID Menu'
+description 'Simple ID Menu using jsfour ID card'
 version '1.0.1'
 
 client_scripts {
@@ -27,3 +27,4 @@ server_scripts {
 }
 
 shared_script '@es_extended/imports.lua'
+server_scripts { '@mysql-async/lib/MySQL.lua' }
