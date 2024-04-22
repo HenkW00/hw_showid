@@ -2,7 +2,7 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
 author 'HenkW'
 description 'Simple ID Menu using jsfour ID card'
-version '1.0.3'
+version '1.0.4'
 
 client_scripts {
 	'client.lua',
